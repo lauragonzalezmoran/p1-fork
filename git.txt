@@ -1,0 +1,7 @@
+Este fichero ha sido añadido con el fin de hacer una demo sobre los comandos básicos de git como: 
+-add
+-commit
+-push
+etc
+Las explicaciones de estos comandos e imágenes se pueden encontrar en el fichero README.md ubicado en este mismo
+repositorio. 
