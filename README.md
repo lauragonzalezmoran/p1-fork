@@ -1,4 +1,5 @@
-# Práctica 1
+
+# Memoria de la Práctica 1
 
 Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
