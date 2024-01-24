@@ -1,7 +1,8 @@
 
 # Memoria de la Práctica 1
 
-## El paso a paso de la práctica
+## En qué consiste la práctica
+Esta primera práctica consiste en familiarizarse con los comandos más básicos de Git. 
 
 ## Explicación de los comandos de Git empleados
 
