@@ -2,6 +2,7 @@
 # Memoria de la Práctica 1
 
 Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
+## Explicación de los comandos de Git empleados
 
 ## ¿Como probar en la nube?
 
