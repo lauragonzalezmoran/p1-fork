@@ -4,7 +4,7 @@
 ## En qué consiste la práctica
 Esta primera práctica consiste en familiarizarse con los comandos más básicos de Git. 
 
-## Explicación de los comandos de Git empleados
+## Explicación de los comandos de Git empleados 
 
 
 ## ¿Como probar en la nube?
