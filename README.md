@@ -1,6 +1,6 @@
 
 # Memoria de la Práctica 1
-<img width="639" alt="Captura de pantalla 2024-01-26 111820" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/41b3a9c4-a5c9-4a09-b076-425fcafeccc3">
+
 
 ## En qué consiste la práctica
 Esta primera práctica consiste en familiarizarse con los comandos más básicos de Git. 
