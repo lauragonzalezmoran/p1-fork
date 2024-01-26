@@ -1,9 +1,8 @@
 
 # Memoria de la Práctica 1
 
+El objetivo de esta primera práctica era el de familiarizarse con los comandos básicos de Git.
 
-## En qué consiste la práctica
-Esta primera práctica consiste en familiarizarse con los comandos más básicos de Git. 
 
 ## Explicación de los comandos de Git empleados 
 
