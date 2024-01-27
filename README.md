@@ -10,6 +10,9 @@ Dado que las indicaciones para la realización de la práctica se encontraban en
 <img width="923" alt="image" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/c9b9e644-ba80-4ea0-89c6-bd5ef723a4a6">
 > **Nota:**
 > Esta misma acción podría haberse realizado desde el terminal, mediante el comando `git clone https://github.com/lauragonzalezmoran/p1-fork `
+> **Nota:**
+> Esta misma acción podría haberse realizado desde el terminal, mediante el comando `git clone https://github.com/lauragonzalezmoran/p1-fork`
+
 Una vez realizado el fork, ya tenemos un nuevo repositorio en nuestra cuenta de github en la nube. Sin embargo, para poder trabajar sobre este repositorio, será necesario hacer una copia del proyecto completo en mi máquina local. Para ello, utilizaremos el comando git `clone`
 
 
