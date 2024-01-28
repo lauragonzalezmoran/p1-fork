@@ -59,6 +59,9 @@ En esta última imagen se puede comprobar cómo el fichero *git.txt* se ha añad
 - `git push origin main`: Envía los cambios confirmados en la rama local "main" al repositorio remoto en GitHub. Esto actualiza la versión remota con los últimos cambios locales.
 
 - `git checkout`: Permite cambiar entre ramas o versiones anteriores del código. Es útil para explorar diferentes ramas de desarrollo o revertir a versiones anteriores del proyecto.
+- 
+[Enlace a git.txt](./git.txt)
+
 
 
 
