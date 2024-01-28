@@ -41,7 +41,8 @@ Después de ejecutar este comando, el archivo git.txt se incluye en el *staging 
 Finalmente, se envían los cambios de la rama main al repositorio remoto personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork) mediante el comando `push origin main` para poder visualizar los cambios desde GitHub. 
 >Imagen 7 : Push Changes
 ><img width="674" alt="Captura de pantalla 2024-01-23 100452" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/cc169b13-5ac7-449d-a036-61ae964317de">
-<img width="949" alt="Captura de pantalla 2024-01-23 100508" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/d4ff7774-18cd-4b94-899f-0bb7230affca">
+<img width="949" alt="Captura de pantalla 2024-01-23 100508" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/25845179-48fb-431e-8ea2-efb1e56bf227">
+
 En esta última imagen se puede comprobar cómo el fichero *git.txt* se ha añadido correctamente al repositorio personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), por lo que, ahora sí, no existe ninguna diferencia entre nuestra máquina local y este. Esto también podríamos confirmarlo mediante `git status` como se ha hecho anteriormente.
 
 
