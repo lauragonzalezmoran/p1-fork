@@ -47,7 +47,7 @@ Finalmente, se envían los cambios de la rama main al repositorio remoto persona
 En esta última imagen se puede comprobar cómo el fichero *[git.txt](./git.txt)* se ha añadido correctamente al repositorio personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), por lo que, ahora sí, no existe ninguna diferencia entre nuestra máquina local y este. Esto también podríamos confirmarlo mediante `git status` como se ha hecho anteriormente.
 
 
-## Explicación de los comandos de Git empleados
+### Explicación de los comandos de Git empleados
 
 - `git clone`: Este comando se utiliza para clonar un repositorio existente. Al realizar un `git clone`, se crea una copia local del repositorio en la máquina del usuario, permitiendo así contribuir al proyecto.
 
