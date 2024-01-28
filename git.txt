@@ -3,5 +3,11 @@ Este fichero ha sido añadido con el fin de hacer una demo sobre los comandos b�
 -commit
 -push
 etc
-Las explicaciones de estos comandos e imágenes se pueden encontrar en el fichero README.md ubicado en este mismo
-repositorio. 
+## Explicación de los comandos de Git empleados
+
+- `git clone`: Clona un repositorio remoto en el sistema local, permitiendo a los usuarios obtener una copia completa del proyecto.
+- `git status`: Proporciona información sobre el estado actual del repositorio, mostrando los cambios realizados y los archivos pendientes de confirmar.
+- `git add .`: Añade todos los cambios realizados en los archivos al área de preparación (*staging area*) para ser incluidos en el próximo commit.
+- `git commit -m "MESSAGE"`: Confirma los cambios realizados en el repositorio local con un mensaje descriptivo que resume la naturaleza de los cambios.
+- `git push origin main`: Sube los cambios confirmados en la rama local al repositorio remoto en la rama principal (*main*), actualizando así la versión remota del proyecto.
+- `git checkout`: Permite cambiar entre ramas o versiones anteriores del proyecto, facilitando la exploración de distintas líneas de desarrollo.
