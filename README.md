@@ -29,14 +29,15 @@ Actualmente los cambios no están registrados en el *staging area* ,lo cual tamb
 El *staging area* es el lugar donde se registran los cambios listos para ser commiteados. Para añadirlos en este area, utilizaremos el comando `git add git.txt`: 
 >Imagen 5: New Staging Area
 ><img width="688" alt="Captura de pantalla 2024-01-23 100200" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/b61689da-0a65-4d12-960c-7f9759728c85">
+
 Como se puede observar en la Imagen 5, tras ejecutar el comando anterior, hemos incluido el fichero git.txt en el *staging area*. Una vez realizado esto, ya podemos emplear el comando `git commit -m "MENSAJE"` para confirmar los cambios y registrarlos en el historial del repositorio. 
-<img width="676" alt="Captura de pantalla 2024-01-23 100251" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/cd3c1d81-b7b6-40d2-b5a3-e9d311adf992">
+>Imagen 6: Commit Changes
+><img width="676" alt="Captura de pantalla 2024-01-23 100251" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/cd3c1d81-b7b6-40d2-b5a3-e9d311adf992">
 <img width="667" alt="Captura de pantalla 2024-01-23 100424" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/2853be52-50bf-410d-a5da-349e7585c475">
 
-Por último, se debe enviar los cambios de nuestra rama main al respositorio remoto personal  [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork) , para poder así visualizar los cambios desde GitHub
-
-<img width="674" alt="Captura de pantalla 2024-01-23 100452" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/cc169b13-5ac7-449d-a036-61ae964317de">
-
+Por último, se debe enviar los cambios de nuestra rama main al respositorio remoto personal  [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork) , para poder así visualizar los cambios desde GitHub. 
+>Imagen 7 : Push Changes
+><img width="674" alt="Captura de pantalla 2024-01-23 100452" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/cc169b13-5ac7-449d-a036-61ae964317de">
 <img width="949" alt="Captura de pantalla 2024-01-23 100508" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/d4ff7774-18cd-4b94-899f-0bb7230affca">
 
 ## Explicación de los comandos de Git empleados 
