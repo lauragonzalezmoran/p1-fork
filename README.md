@@ -46,14 +46,19 @@ Finalmente, se envían los cambios de la rama main al repositorio remoto persona
 En esta última imagen se puede comprobar cómo el fichero *git.txt* se ha añadido correctamente al repositorio personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), por lo que, ahora sí, no existe ninguna diferencia entre nuestra máquina local y este. Esto también podríamos confirmarlo mediante `git status` como se ha hecho anteriormente.
 
 
+## Explicación de los comandos de Git empleados
 
-## Explicación de los comandos de Git empleados 
-- `git clone`: 
-- `git status`:
-- `git add .`:
-- `git commit -m "MESSAGE"`:
-- `git push origin main `:
-- `git checkout`: 
+- `git clone`: Este comando se utiliza para clonar un repositorio existente. Al realizar un `git clone`, se crea una copia local del repositorio en la máquina del usuario, permitiendo así contribuir al proyecto.
+
+- `git status`: Proporciona información sobre el estado actual del repositorio. Al ejecutar este comando, se obtiene una visión general de los cambios pendientes, los archivos modificados y otros detalles relevantes.
+
+- `git add .`: Agrega todos los cambios realizados en el directorio de trabajo al área de preparación (*staging area*), preparándolos para ser confirmados en el próximo commit.
+
+- `git commit -m "MESSAGE"`: Este comando registra los cambios realizados en el área de preparación en el historial del repositorio. El mensaje descriptivo proporciona información sobre la naturaleza de los cambios realizados.
+
+- `git push origin main`: Envía los cambios confirmados en la rama local "main" al repositorio remoto en GitHub. Esto actualiza la versión remota con los últimos cambios locales.
+
+- `git checkout`: Permite cambiar entre ramas o versiones anteriores del código. Es útil para explorar diferentes ramas de desarrollo o revertir a versiones anteriores del proyecto.
 
 
 
