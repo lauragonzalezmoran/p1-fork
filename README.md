@@ -15,7 +15,7 @@ El siguiente paso implica realizar modificaciones en el repositorio local. Esto 
 >Imagen 2: Creación y Visualización del Fichero *git.txt*
 > <img width="650" alt="Captura de pantalla 2024-01-23 100007" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/feba6704-23d5-421a-906b-86e6d2139837">
 
-Es importante notar como estos cambios realizados en la máquina local todavía no se han extendido al repositorio personal en la nube. Es decir, en este caso, el fichero * git.txt* todavía no aparece en [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), tal como se muestra en la Imagen 3: 
+Es importante notar como estos cambios realizados en la máquina local todavía no se han extendido al repositorio personal en la nube. Es decir, en este caso, el fichero *git.txt* todavía no aparece en [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), tal como se muestra en la Imagen 3: 
 >Imagen 3: Pantallazo del estado actual del repositorio [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork)
 ><img width="940" alt="Captura de pantalla 2024-01-23 100035" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/06699859-8ccc-488a-8f2b-d21f7600e88e">
 
