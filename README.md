@@ -70,7 +70,12 @@ En esta última imagen se puede comprobar cómo el fichero *[git.txt](./git.txt)
 <img width="493" alt="Captura de pantalla 2024-01-28 180252" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/38ec7d61-9909-4c39-a6aa-a66f48b5e178">
 <img width="955" alt="Captura de pantalla 2024-01-28 180523" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/2b654c10-10c0-4399-aead-a73254c63914">
 
+ 
  Asimismo, en el fichero *[entorno.txt](./entorno.txt)* podemos encontar copias de los logs del cmd con el versionado al que corresponden.
+
+ ### Conclusión
+
+ En esta práctica, se abordaron conceptos esenciales de control de versiones utilizando Git y GitHub, destacando la importancia de comandos clave como `git clone`, `git status`, `git add`, `git commit`, y `git push origin main`. Estos comandos se utilizaron para realizar una duplicación del repositorio original, implementar cambios locales, y sincronizar estos cambios con el repositorio remoto. Además, se exploraron herramientas de desarrollo en Java, evidenciando la instalación de Java 17, Maven, y editores de código como VSCode e IntelliJ. Este ejercicio proporcionó una comprensión práctica de las operaciones fundamentales en un entorno colaborativo de desarrollo de software, subrayando la relevancia de una gestión eficiente de versiones para proyectos compartidos.
 
 
 
