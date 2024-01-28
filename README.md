@@ -15,6 +15,13 @@ El siguiente paso implica realizar modificaciones en el repositorio local. Esto 
 >Imagen 2: Creación y Lectura de Fichero
 > <img width="650" alt="Captura de pantalla 2024-01-23 100007" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/feba6704-23d5-421a-906b-86e6d2139837">
 
+Es importante notar como estos cambios realizados en la máquina local todavía no se han extendido al repositorio personal en la nube. Es decir, en este caso, el fichero * git.txt* todavía no aparece en [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), tal como se muestra en la Imagen 3: 
+<img width="940" alt="Captura de pantalla 2024-01-23 100035" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/06699859-8ccc-488a-8f2b-d21f7600e88e">
+
+Es por esto que, una vez que estemos satisfechos con los cambios llevados a cabo en nuestra máquina local, deberemos conseguir que estos se propaguen a nuestro repositorio en la nube. Para ello, se hará uso de los comandos `git add .`, `git  commit -m "MENSAJE"` y `git push origin main`, entre otros. 
+
+
+Una vez estemos contentos con los cambios llevados a cabo en la máquina local, querremos que estos se propaguen a nuestro repositorio personal en la nube. Para conseguir esto, s
 
 
 
