@@ -70,7 +70,7 @@ En esta última imagen se puede comprobar cómo el fichero *[git.txt](./git.txt)
 <img width="493" alt="Captura de pantalla 2024-01-28 180252" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/38ec7d61-9909-4c39-a6aa-a66f48b5e178">
 <img width="955" alt="Captura de pantalla 2024-01-28 180523" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/2b654c10-10c0-4399-aead-a73254c63914">
 
-
+ Asimismo, en el fichero *[entorno.txt](./entorno.txt)* podemos encontar copias de los logs del cmd con el versionado al que corresponden.
 
 
 
