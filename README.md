@@ -8,7 +8,7 @@ En esta primera práctica nos sumergimos en el mundo de **Git** y **Github**, do
 Dado que las indicaciones para la realización de la práctica se encontraban en el repositorio [gitt-3-pat/p1](https://github.com/gitt-3-pat/p1) y considerando que no se pretende reflejar los cambios en este repositorio, la primera acción consistió en crear una duplicación del repositorio bajo mi propio Github ID, que es [lauragonzalezmoran](https://github.com/lauragonzalezmoran/). Esta duplicación facilitará la ejecución de la práctica desde mi propio entorno de trabajo personal.  Para llevar a cabo esta duplicación, utilicé la opción "fork" disponible en la plataforma GitHub (Imagen 1) , y al nuevo repositorio resultante le asigné el nombre *"p1-fork"*. 
 >Imagen 1: Opción de Fork 
 <img width="923" alt="image" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/c9b9e644-ba80-4ea0-89c6-bd5ef723a4a6">
-> [!IMPORTANT] >Esta misma acción podría haberse realizado desde el terminal, mediante el comando `git clone` https://github.com/lauragonzalezmoran/p1-fork 
+Esta misma acción podría haberse realizado desde el terminal, mediante el comando `git clone https://github.com/lauragonzalezmoran/p1-fork `
 
 
 Una vez realizado el fork, ya tenemos un nuevo repositorio en nuestra cuenta de github en la nube. Sin embargo, para poder trabajar sobre este repositorio, será necesario hacer una copia del proyecto completo en mi máquina local. Para ello, utilizaremos el comando git `clone`
