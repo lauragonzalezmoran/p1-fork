@@ -63,6 +63,14 @@ En esta última imagen se puede comprobar cómo el fichero *[git.txt](./git.txt)
 
   ### Entorno de Desarrollo Java
 
+  El último paso de la práctica consiste en instalar herramientas que serán necesarias para futuras prácticas. A continuación, se deja evidencia de todas:
+  
+<img width="839" alt="Captura de pantalla 2024-01-28 173811" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/1a74dbaf-d52c-45c1-8886-716162bf0cd9">
+<img width="854" alt="Captura de pantalla 2024-01-28 180143" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/35bd900b-cd56-47ea-b35e-909857466ea2">
+<img width="493" alt="Captura de pantalla 2024-01-28 180252" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/38ec7d61-9909-4c39-a6aa-a66f48b5e178">
+<img width="955" alt="Captura de pantalla 2024-01-28 180523" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/2b654c10-10c0-4399-aead-a73254c63914">
+
+
 
 
 
