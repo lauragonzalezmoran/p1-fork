@@ -1,0 +1,13 @@
+Este fichero se emplea para dejar evidencia de la instalación de las herramientas Java y Maven. Las imagenes de instalación de otros entornos como IntelliJ y VsCode pueden 
+encontrarse en la memoria de la práctica, ubicada en el fichero README.md. 
+
+C:\Users\laura>vscode --version
+"vscode" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\laura>mvn --version
+Apache Maven 3.9.6 (bc0240f3c744dd6b6ec2920b3cd08dcc295161ae)
+Maven home: C:\Users\laura\OneDrive - Universidad Pontificia Comillas\tercero de carrera\ficheros descargados\apache-maven-3.9.6-bin\apache-maven-3.9.6
+Java version: 19.0.1, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk-19
+Default locale: es_ES, platform encoding: UTF-8
+OS name: "windows 11", version: "10.0", arch: "amd64", family: "windows"
