@@ -11,11 +11,11 @@ En el contexto del desarrollo de la práctica, las instrucciones pertinentes se 
 
 Una vez completado el fork, se obtiene un nuevo repositorio en la cuenta de GitHub en la nube. No obstante, para realizar el trabajo en este repositorio, es esencial crear una copia del proyecto en la máquina local. Para ello, se generará un CodeSpace y, tras abrir el terminal, se ejecutará el comando `git clone` https://github.com/lauragonzalezmoran/p1-fork. Esta acción permite trabajar en modo *offline*, realizar pruebas sin afectar al repositorio en la cuenta personal de GitHub.
 
-El siguiente paso implica realizar modificaciones en el repositorio local. Esto llevará a que la versión del repositorio en [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork) y la máquina local ya no estén sincronizadas. Por lo tanto, se recurrirá a los comandos de Git para actualizar el repositorio en la nube cuando sea necesario. En este escenario, la modificación conllevará la creación de un archivo llamado *git.txt*. Para lograr esto, se empleará el comando `nano git.txt`. Se introducirá cualquier texto en este archivo y, para visualizar su contenido, se utilizará el comando `cat git.txt`, tal como se ilustra en la Imagen 2 a continuación:
->Imagen 2: Creación y Visualización del Fichero *git.txt*
+El siguiente paso implica realizar modificaciones en el repositorio local. Esto llevará a que la versión del repositorio en [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork) y la máquina local ya no estén sincronizadas. Por lo tanto, se recurrirá a los comandos de Git para actualizar el repositorio en la nube cuando sea necesario. En este escenario, la modificación conllevará la creación de un archivo llamado *[git.txt](./git.txt)*. Para lograr esto, se empleará el comando `nano git.txt`. Se introducirá cualquier texto en este archivo y, para visualizar su contenido, se utilizará el comando `cat git.txt`, tal como se ilustra en la Imagen 2 a continuación:
+>Imagen 2: Creación y Visualización del Fichero *[git.txt](./git.txt)*
 > <img width="650" alt="Captura de pantalla 2024-01-23 100007" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/feba6704-23d5-421a-906b-86e6d2139837">
 
-Es crucial destacar que los cambios realizados en la máquina local aún no han sido reflejados en el repositorio personal en la nube, es decir, el archivo *git.txt* no figura aún en [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), como se muestra en la Imagen 3:
+Es crucial destacar que los cambios realizados en la máquina local aún no han sido reflejados en el repositorio personal en la nube, es decir, el archivo *[git.txt](./git.txt)* no figura aún en [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), como se muestra en la Imagen 3:
 
 > Imagen 3: Estado actual del repositorio [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork)
 > <img width="940" alt="Captura de pantalla 2024-01-23 100035" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/06699859-8ccc-488a-8f2b-d21f7600e88e">
@@ -32,7 +32,7 @@ El *staging area* es el espacio donde se registran los cambios listos para ser c
 > Imagen 5: Nuevo estado del área de preparación (*staging area*)
 > <img width="688" alt="Captura de pantalla 2024-01-23 100200" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/b61689da-0a65-4d12-960c-7f9759728c85">
 
-Después de ejecutar este comando, el archivo git.txt se incluye en el *staging area*. Posteriormente, se utiliza el comando `git commit -m "MENSAJE"` para confirmar los cambios y registrarlos en el historial del repositorio:
+Después de ejecutar este comando, el archivo *[git.txt](./git.txt)* se incluye en el *staging area*. Posteriormente, se utiliza el comando `git commit -m "MENSAJE"` para confirmar los cambios y registrarlos en el historial del repositorio:
 
 > Imagen 6: Confirmación de cambios
 > <img width="676" alt="Captura de pantalla 2024-01-23 100251" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/cd3c1d81-b7b6-40d2-b5a3-e9d311adf992">
@@ -43,7 +43,7 @@ Finalmente, se envían los cambios de la rama main al repositorio remoto persona
 ><img width="674" alt="Captura de pantalla 2024-01-23 100452" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/cc169b13-5ac7-449d-a036-61ae964317de">
 ><img width="949" alt="Captura de pantalla 2024-01-23 100508" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/25845179-48fb-431e-8ea2-efb1e56bf227">
 
-En esta última imagen se puede comprobar cómo el fichero *git.txt* se ha añadido correctamente al repositorio personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), por lo que, ahora sí, no existe ninguna diferencia entre nuestra máquina local y este. Esto también podríamos confirmarlo mediante `git status` como se ha hecho anteriormente.
+En esta última imagen se puede comprobar cómo el fichero *[git.txt](./git.txt)* se ha añadido correctamente al repositorio personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), por lo que, ahora sí, no existe ninguna diferencia entre nuestra máquina local y este. Esto también podríamos confirmarlo mediante `git status` como se ha hecho anteriormente.
 
 
 ## Explicación de los comandos de Git empleados
@@ -60,7 +60,7 @@ En esta última imagen se puede comprobar cómo el fichero *git.txt* se ha añad
 
 - `git checkout`: Permite cambiar entre ramas o versiones anteriores del código. Es útil para explorar diferentes ramas de desarrollo o revertir a versiones anteriores del proyecto.
 - 
-[Enlace a git.txt](./git.txt)
+
 
 
 
