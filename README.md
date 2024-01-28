@@ -54,7 +54,7 @@ En esta última imagen se puede comprobar cómo el fichero *git.txt* se ha añad
 
 - `git add .`: Agrega todos los cambios realizados en el directorio de trabajo al área de preparación (*staging area*), preparándolos para ser confirmados en el próximo commit.
 
-- `git commit -m "MESSAGE"`: Este comando registra los cambios realizados en el área de preparación en el historial del repositorio. El mensaje descriptivo proporciona información sobre la naturaleza de los cambios realizados.
+- `git commit -m "MESSAGE"`: Este comando registra los cambios realizados en el área de preparación en el historial del repositorio. El mensaje proporciona información sobre la naturaleza de los cambios realizados.
 
 - `git push origin main`: Envía los cambios confirmados en la rama local "main" al repositorio remoto en GitHub. Esto actualiza la versión remota con los últimos cambios locales.
 
