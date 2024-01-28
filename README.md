@@ -38,13 +38,21 @@ Después de ejecutar este comando, el archivo git.txt se incluye en el *staging 
 > <img width="676" alt="Captura de pantalla 2024-01-23 100251" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/cd3c1d81-b7b6-40d2-b5a3-e9d311adf992">
 > <img width="667" alt="Captura de pantalla 2024-01-23 100424" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/2853be52-50bf-410d-a5da-349e7585c475">
 
-Finalmente, se envían los cambios de la rama main al repositorio remoto personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork) para visualizar los cambios desde GitHub.
+Finalmente, se envían los cambios de la rama main al repositorio remoto personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork) mediante el comando `push origin main` para poder visualizar los cambios desde GitHub. 
 >Imagen 7 : Push Changes
 ><img width="674" alt="Captura de pantalla 2024-01-23 100452" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/cc169b13-5ac7-449d-a036-61ae964317de">
 <img width="949" alt="Captura de pantalla 2024-01-23 100508" src="https://github.com/lauragonzalezmoran/p1-fork/assets/122973125/d4ff7774-18cd-4b94-899f-0bb7230affca">
-En esta última imagen se puede comprobar cómo el fichero *git.txt* se ha añadido correctamente al repositorio personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), por lo que, ahora sí, nuestra máquina local y este están por fin sincronizados. 
+En esta última imagen se puede comprobar cómo el fichero *git.txt* se ha añadido correctamente al repositorio personal [lauragonzalezmoran/p1-fork](https://github.com/lauragonzalezmoran/p1-fork), por lo que, ahora sí, no existe ninguna diferencia entre nuestra máquina local y este. Esto también podríamos confirmarlo mediante `git status` como se ha hecho anteriormente.
+
+
 
 ## Explicación de los comandos de Git empleados 
+- `git clone`: 
+- `git status`:
+- `git add .`:
+- `git commit -m "MESSAGE"`:
+- `git push origin main `:
+- `git checkout`: 
 
 
 
